@@ -1,9 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/adsr.c:23:7:slope_log10_6magnitudes	24	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/adsr.c:32:6:adsr_init	24	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/adsr.c:52:6:adsr_configure_gate	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/adsr.c:57:6:adsr_configure_attack	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/adsr.c:62:6:adsr_configure_decay	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/adsr.c:67:6:adsr_configure_sustain	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/adsr.c:72:6:adsr_configure_release	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/adsr.c:77:6:adsr_configure_trig	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/adsr.c:83:7:adsr_read	144	static

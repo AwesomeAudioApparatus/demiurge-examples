@@ -1,5 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/scale.c:21:6:scale_init	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/scale.c:32:6:scale_configure	24	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/scale.c:38:6:scale_configure_input	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/scale.c:43:6:scale_configure_control	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/scale.c:48:7:scale_read	48	static

@@ -1,2 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/threshold.c:19:6:threshold_init	24	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/threshold.c:26:6:threshold_compute	32	static

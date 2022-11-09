@@ -1,5 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/inverter.c:22:6:inverter_init	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/inverter.c:34:6:inverter_configure_input	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/inverter.c:39:6:inverter_configure_midpoint	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/inverter.c:44:6:inverter_configure_scale	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/inverter.c:49:7:inverter_read	48	static

@@ -1,2 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/fixed_signal.c:21:6:fixed_signal_init	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/fixed_signal.c:31:7:fixed_signal_read	24	static

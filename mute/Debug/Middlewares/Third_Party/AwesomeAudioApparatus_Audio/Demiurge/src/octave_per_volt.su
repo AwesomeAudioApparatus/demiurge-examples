@@ -1,4 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/octave_per_volt.c:50:6:octave_init	40	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/octave_per_volt.c:70:7:octave_frequency_of	24	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/octave_per_volt.c:82:7:octave_voltage_of	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/octave_per_volt.c:90:7:digitize	16	static

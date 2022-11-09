@@ -1,6 +1,0 @@
-../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-testpoints.c:19:6:init_testpoints	4	static
-../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-testpoints.c:23:6:start_testpoints	4	static
-../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-testpoints.c:27:6:stop_testpoints	4	static
-../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-testpoints.c:31:6:toggle_testpoint	16	static
-../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-testpoints.c:49:6:set_testpoint	16	static
-../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-testpoints.c:67:6:clear_testpoint	16	static

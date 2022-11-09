@@ -1,5 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/offset.c:21:6:offset_init	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/offset.c:33:6:offset_configure_input	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/offset.c:38:6:offset_configure_control	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/offset.c:43:6:offset_configure	24	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/offset.c:49:7:offset_read	48	static

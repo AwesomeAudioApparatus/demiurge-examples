@@ -1,2 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/potentiometer.c:21:6:potentiometer_init	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/potentiometer.c:32:7:potentiometer_read	32	static

@@ -1,6 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/led.c:21:6:led_init	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/led.c:36:6:led_configure_input	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/led.c:46:6:led_configure_sensitivity	24	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/led.c:52:6:led_release	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/led.c:61:10:led_position_in_rgb	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/led.c:66:7:led_read	40	static

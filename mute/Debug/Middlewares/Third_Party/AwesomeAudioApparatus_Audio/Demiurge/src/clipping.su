@@ -1,4 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/clipping.c:19:7:clip_none	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/clipping.c:24:7:clip_gate	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/clipping.c:30:7:clip_cv	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/clipping.c:37:7:clip_audio	16	static

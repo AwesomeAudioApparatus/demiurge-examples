@@ -1,3 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/lg10.c:23:6:lg10_init	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/lg10.c:32:6:lg10_configure_input	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/lg10.c:37:7:lg10_read	40	static

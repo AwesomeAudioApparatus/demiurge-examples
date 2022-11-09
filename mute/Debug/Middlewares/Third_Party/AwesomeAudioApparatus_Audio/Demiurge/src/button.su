@@ -1,5 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/button.c:23:6:button_init	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/button.c:37:6:button_configure_for_press	24	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/button.c:48:6:button_configure_for_toggle	24	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/button.c:59:6:button_configure_for_steps	24	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/button.c:68:7:button_read	40	static

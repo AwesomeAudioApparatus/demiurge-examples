@@ -1,4 +1,0 @@
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/calculator.c:23:6:calculator_init	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/calculator.c:33:6:calculator_configure_input	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/calculator.c:38:6:calculator_configure_function	16	static
-../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/calculator.c:43:7:calculator_read	40	static
