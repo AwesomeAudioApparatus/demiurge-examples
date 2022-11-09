@@ -1,0 +1,6 @@
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-adc.c:43:9:initialize_and_calibrate_adc	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-adc.c:48:6:init_adc_dma	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-adc.c:54:6:read_adc	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-adc.c:70:6:init_adc	16	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-adc.c:110:6:start_adc	8	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-adc.c:115:6:stop_adc	8	static

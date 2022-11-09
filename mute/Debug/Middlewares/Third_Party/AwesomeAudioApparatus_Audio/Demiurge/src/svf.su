@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/svf.c:26:6:svf_init	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/svf.c:38:6:svf_configure_input	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/svf.c:43:6:svf_configure_frequency	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/svf.c:48:6:svf_configure_Q	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/svf.c:53:7:svf_read	88	static

@@ -1,0 +1,13 @@
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:32:16:readRegister	48	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:44:13:setRegister	48	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:55:13:turnoff_AW20036	8	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:61:13:turnon_AW20036	8	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:67:6:update_leds	24	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:118:13:test_led	16	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:127:6:write_registers	32	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:168:6:init_leds	8	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:187:6:set_led	16	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:192:6:set_rgb	24	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:200:6:start_leds	16	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:224:6:stop_leds	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-led.c:228:10:rgb_leds	16	static

@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/volume.c:22:6:volume_init	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/volume.c:31:6:volume_configure	24	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/volume.c:38:6:volume_configure_input	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/volume.c:44:6:volume_configure_control	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/volume.c:50:7:volume_read	56	static

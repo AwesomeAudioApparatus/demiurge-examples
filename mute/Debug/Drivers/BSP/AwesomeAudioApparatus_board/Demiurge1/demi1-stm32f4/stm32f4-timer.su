@@ -1,0 +1,3 @@
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-timer.c:19:6:init_timer	16	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-timer.c:23:6:start_timer	8	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-timer.c:28:6:stop_timer	4	static

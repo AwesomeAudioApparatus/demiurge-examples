@@ -1,0 +1,4 @@
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/cfxrbjfilter.c:25:6:cfxrbjfilter_init	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/cfxrbjfilter.c:46:6:cfxrbjfilter_configure_input	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/cfxrbjfilter.c:51:6:cfxrbjfilter_compute	96	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/cfxrbjfilter.c:80:6:computeCoefficients	200	static

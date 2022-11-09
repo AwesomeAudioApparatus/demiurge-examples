@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/audio_outport.c:22:6:audio_outport_init	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/audio_outport.c:34:6:audio_outport_configure_input	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/audio_outport.c:44:7:audio_outport_read	48	static

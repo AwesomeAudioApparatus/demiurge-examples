@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/cv_inport.c:23:6:cv_inport_init	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/cv_inport.c:34:7:cv_inport_read	32	static

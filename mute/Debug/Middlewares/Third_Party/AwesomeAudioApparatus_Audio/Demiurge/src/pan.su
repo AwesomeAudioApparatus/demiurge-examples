@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/pan.c:23:6:pan_init	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/pan.c:47:6:pan_configure_control	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/pan.c:54:6:pan_configure_input	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/pan.c:60:7:pan_read	40	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/pan.c:77:7:panchannel_read	48	static

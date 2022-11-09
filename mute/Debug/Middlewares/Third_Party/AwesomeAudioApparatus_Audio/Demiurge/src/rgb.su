@@ -1,0 +1,6 @@
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/rgb.c:32:13:default_fn	24	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/rgb.c:41:6:rgb_init	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/rgb.c:56:6:rgb_configure_conversion	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/rgb.c:62:6:rgb_configure_input	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/rgb.c:72:6:rgb_release	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/rgb.c:81:7:rgb_read	40	static

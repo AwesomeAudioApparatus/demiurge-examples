@@ -1,0 +1,6 @@
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/averager.c:23:6:averager_init	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/averager.c:35:6:averager_configure_input	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/averager.c:40:6:averager_configure_avg	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/averager.c:45:6:averager_set_keep	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/averager.c:51:6:averager_set_update	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/averager.c:57:7:averager_read	48	static

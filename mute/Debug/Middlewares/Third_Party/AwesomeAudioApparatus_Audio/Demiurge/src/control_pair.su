@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/control_pair.c:23:6:control_pair_init	16	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/control_pair.c:35:7:control_pair_read	40	static

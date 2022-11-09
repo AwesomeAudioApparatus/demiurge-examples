@@ -1,0 +1,15 @@
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:54:6:demiurge_driver_init	8	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:67:6:demiurge_driver_start	8	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:89:6:demiurge_driver_stop	8	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:109:25:demiurge_driver_info	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:115:6:update_display	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:118:6:init_display	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:121:6:start_display	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:124:6:stop_display	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:128:6:read_navigation	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:131:6:init_navigation	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:134:6:start_navigation	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:137:6:stop_navigation	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:140:6:demiurge_potentiometer_mode	32	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:147:6:demiurge_input_mode	16	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4.c:168:6:demiurge_output_mode	16	static

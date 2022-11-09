@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/mixer.c:25:1:mixer_init	24	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/mixer.c:44:1:mixer_configure_input	32	static
+../Middlewares/Third_Party/AwesomeAudioApparatus_Audio/Demiurge/src/mixer.c:57:1:mixer_read	48	static

@@ -1,0 +1,4 @@
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-button.c:21:6:update_buttons	8	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-button.c:29:6:init_buttons	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-button.c:34:6:start_buttons	4	static
+../Drivers/BSP/AwesomeAudioApparatus_board/Demiurge1/demi1-stm32f4/stm32f4-button.c:39:6:stop_buttons	4	static
